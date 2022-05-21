@@ -1,0 +1,2 @@
+CURRENCY = 'USD'
+COIN = 'BTC'
